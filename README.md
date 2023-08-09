@@ -7,7 +7,8 @@ font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height
 </p>
 <br>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<br> <br>
+<br>
+<br>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
