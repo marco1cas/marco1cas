@@ -36,19 +36,20 @@ font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br> <br>
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
 
 ## Connect with me ☕ :
 
 <br>
 
 [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-
-<br>
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
 
 <br>
