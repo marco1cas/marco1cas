@@ -13,10 +13,10 @@
 
 <br>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💡 &nbsp;Enthusiastic about exploring the latest in technology and crafting innovative software solutions and quick hacks.\
+🎓 &nbsp;Currently, I am immersed in the self-taught study of programming and algorithms to strengthen my skills.\
+🌱 &nbsp;I am excited to continue learning about servers, databases, and frameworks.\
+✍️ &nbsp;In my free time I enjoy playing games like CSGO or walking around the city.\
 
 <br>
 <br>
