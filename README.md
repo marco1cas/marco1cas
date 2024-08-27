@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Marco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<div style="text-align: center; margin-right: 600px;">
+<divr margin-right: 600px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&letterSpacing=&duration=3000&pause=2000&center=true&vCenter=true&multiline=true&width=500&height=250&lines=Success+isn%E2%80%99t+achieved+;overnight+it+comes+from;+taking+small+daily++steps+;guided+by+discipline..." alt="Typing SVG" />
   </a>
