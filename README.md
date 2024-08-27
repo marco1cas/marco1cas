@@ -35,7 +35,7 @@
 ![LNUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Fedora-%23ffffff?style=flat&logo=Fedora)&nbsp;
 ![PowerShell](https://img.shields.io/badge/PowerShell-%2301B0F0.svg?style=flat)&nbsp;
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/GNU%20Bash-%23576574?logo=GNU%20Bash)&nbsp;
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)&nbsp;
 <br>
 
