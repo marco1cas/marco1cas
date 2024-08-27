@@ -11,7 +11,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br>
+<br><br>
 💡 &nbsp;Enthusiastic about exploring the latest in technology and crafting innovative software solutions and quick hacks.\
 🎓 &nbsp;Currently, I am immersed in the self-taught study of programming and algorithms to strengthen my skills.\
 🌱 &nbsp;I am excited to continue learning about servers, databases, and frameworks.\
