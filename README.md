@@ -36,7 +36,7 @@
 ![Static Badge](https://img.shields.io/badge/Fedora-%23ffffff?style=flat&logo=Fedora)&nbsp;
 ![PowerShell](https://img.shields.io/badge/PowerShell-%2301B0F0.svg?style=flat)&nbsp;
 ![Shell Script](https://img.shields.io/badge/GNU%20Bash-%23576574?logo=GNU%20Bash)&nbsp;
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)&nbsp;
+![Windows Terminal](https://img.shields.io/badge/Batch-%231e272e?logo=gnometerminal)&nbsp;
 <br>
 
 <h3>Statistical Data : </h3>
