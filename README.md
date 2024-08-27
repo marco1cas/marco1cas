@@ -30,6 +30,7 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+<br>
 ![LNUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Fedora-%23ffffff?style=flat&logo=Fedora)&nbsp;
 ![PowerShell](https://img.shields.io/badge/PowerShell-%2301B0F0.svg?style=flat)&nbsp;
