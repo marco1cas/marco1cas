@@ -30,9 +30,10 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![LNUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data : </h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
