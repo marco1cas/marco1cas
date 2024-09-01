@@ -50,7 +50,6 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@macs7_7")](https://www.instagram.com/macs7_7/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png )](https://www.instagram.com/macs7_7/) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.instagram.com/macs7_7/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png )](https://www.instagram.com/macs7_7/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png )](marco.acastrosanchez353@gmail.com) [![marco.acastrosanchez353@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png )](marco.acastrosanchez353@gmail.com
-)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@macs7_7")](https://www.instagram.com/macs7_7/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png )](https://www.instagram.com/macs7_7/) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.instagram.com/macs7_7/) (https://www.instagram.com/macs7_7/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png )](marco.acastrosanchez353@gmail.com) 
 
 <br>
