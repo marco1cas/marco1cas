@@ -47,8 +47,5 @@
 <br>
 
 ## Connect with me ☕ 
-
-<br>
-
 [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@macs7_7")](https://www.instagram.com/macs7_7/)
 <br>
