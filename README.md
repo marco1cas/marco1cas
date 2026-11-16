@@ -41,5 +41,5 @@ I'm currently building my technical foundation through personal projects, hands-
 I use personal projects and practical labs to reinforce my knowledge, experiment with technologies, and document what I learn.
 ---
 
-\<p align="center">   \<i>"Success isn't achieved overnight; it comes from taking small daily steps guided by discipline."\</i> \</p>
+<p align="center">   <i>"Success isn't achieved overnight; it comes from taking small daily steps guided by discipline."</i> </p>
 
